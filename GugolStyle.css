@@ -1,0 +1,60 @@
+header{
+    margin-left: 1060px;
+}
+header img {
+    display: inline;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+    vertical-align: middle;
+}
+header p {
+    display: inline;
+    margin: 5px;
+}
+main #logo{
+    height: 100px;
+    width: 325px;
+    margin-left: 450px;
+    margin-top: 40px;
+}
+main form{
+    margin-left: 400px;
+    margin-top: 60px;
+    padding-right: 100px;
+    
+}
+#input-search:hover{
+    background-color: bisque;
+}
+main input{
+    padding: 10px;
+    padding-right: 300px;
+}
+main button{
+    margin-left: 40px;
+    margin-top: 70px;
+    display: inline;
+}
+.btn-search{
+    margin-left: 450px;
+}
+#search:hover{
+    background-color: aquamarine;
+}
+#lucky:hover{
+    background-color: aquamarine;
+}
+
+footer a{
+    display: inline;
+    margin: 40px;
+
+}
+footer a:link{
+    color: gray;
+}
+footer{
+    margin-top: 210px;
+    margin-left: 40px;
+}
